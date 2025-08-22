@@ -1,15 +1,19 @@
 # 2026 Push Back
 
 [![MIT license](https://img.shields.io/github/license/vex-ssis/2026)](https://vex-ssis.mit-license.org/)
+![GitHub Release](https://img.shields.io/github/v/release/vex-ssis/2026)
 [![Github Pages](https://github.com/vex-ssis/2026/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/vex-ssis/2026/actions/workflows/pages/pages-build-deployment)
 
 SSIS Robotics in the "Push Back" VEX competition 2025-2026
 
 <img src="docs/1x1.png" width="20%"><img src="docs/push_back.png" width="60%">
 
-## SSIS VEX Robotics Scrimmage 2025/10/05
+## Vietnam Signature: New Year’s Mayhem - High School V5RC: Push Back 2026/02/06 - 8
 
-TBD.
+<img src="docs/1x1.png" width="5%"><img src="docs/mayhem2025.png" width="25%"><img src="docs/1x1.png" width="5%"><img src="docs/signature_event.png" width="25%"><img src="docs/1x1.png" width="5%"><img src="docs/ssisrobotics.png" width="25%">
+
+The first signature event in Vietnam! Happening in February 2026, open for 70 HS teams across Asia! And 50% is given to teams outside of Vietnam.
+
 
 ## Available spots at Worlds
 
