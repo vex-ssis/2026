@@ -12,7 +12,7 @@ SSIS Robotics in the "Push Back" VEX competition 2025-2026
 
 This year 23 teams visited SSIS to [kick of the new season](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0562.html#general-info) and learn from one another. Once more unbeatable: LSTS MAKO MANIACS with 7 wins and 0 losses or ties. Best SSIS team: 1599X SSIS Hawks.
 
-<imc src="docs/1x1.png" width="5%"> <img src="docs/2025-10-11_scrimmage1.jpg" width="30%"> <img src="docs/2025-10-11_scrimmage1.jpg" width="30%"> <img src="docs/2025-10-11_scrimmage1.jpg" width="30%">
+<img src="docs/1x1.png" width="5%"> <img src="docs/2025-10-11_scrimmage1.jpg" width="30%"> <img src="docs/2025-10-11_scrimmage2.jpg" width="30%"> <img src="docs/2025-10-11_scrimmage3.jpg" width="30%">
 
 ## Vietnam Road to National: Southern Qualification Season 25-26 - 2025/11/22
 
@@ -31,6 +31,21 @@ Qualified for the National Chamionship are:
 <img src="docs/1x1.png" width="5%"><img src="docs/mayhem2025.png" width="25%"><img src="docs/1x1.png" width="5%"><img src="docs/signature_event.png" width="25%"><img src="docs/1x1.png" width="5%"><img src="docs/ssisrobotics.png" width="25%">
 
 The [first signature event in Vietnam](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0160.html#general-info)! Happening in February 2026, open for 70 HS teams across Asia! And 50% is given to teams outside of Vietnam. By November 2025 we have already [signups from 7 countries](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-0160.html#teams), including China, Taiwan, Macau, Indonesia, Thailand, Singapore and Kazakhstan!
+
+## Virtual Skills Standings
+
+On November 22nd, 2025, there are 329 entries from different teams. 8 team from Vietnam are in there, and again it is LSTS MAKO MANIACS who's taking the lead:
+
+| Rank | Score | Stop Time | Team Number | Team Name             | Organization                             |
+|------|-------|-----------|-------------|-----------------------|------------------------------------------|
+| 9    | 90    | 0         | 50922T      | LSTS MAKO MANIACS     | Lawrence S.Ting School                   |
+| 10   | 90    | 0         | 50922S      | LSTS VERTEX           | Lawrence S.Ting School                   |
+| 66   | 53    | 0         | 1599N       | SSIS Big Pink Pegasus | Saigon South International School (SSIS) |
+| 78   | 50    | 2         | 23457H      | BL SAI GON CHEETAH    | BRICK lab Robotics                       |
+| 182  | 24    | 24        | 23457S      | BRICK Lab SUPER       | BRICK lab Robotics                       |
+| 197  | 23    | 0         | 23457B      | BRICK Lab Robotics    | BRICK Lab Robotics Club                  |
+| 284  | 4     | 18        | 19882U      | UNIS Hanoi V5         | UNIS Hanoi                               |
+| 297  | 2     | 48        | 88527F      | VenomWizor            | Trường THPT FPT Tây Hà Nội               |
 
 ## Available spots at Worlds
 
