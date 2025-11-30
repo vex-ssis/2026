@@ -14,7 +14,7 @@ This year 23 teams visited SSIS to [kick of the new season](https://www.roboteve
 
 <img src="docs/1x1.png" width="5%"> <img src="docs/2025-10-11_scrimmage1.jpg" width="30%"> <img src="docs/2025-10-11_scrimmage2.jpg" width="30%"> <img src="docs/2025-10-11_scrimmage3.jpg" width="30%">
 
-## Vietnam Road to National: Southern Qualification Season 25-26 - 2025/11/22
+## Vietnam Road to National: Southern Qualification Season 25-26 - 2025/11/22-23
 
 Time for southern teams to qualify for the National Championship in February 2026. While looking forward to this first Signature event, it is a tough competition between the 37 teams on the [Vietnam Road to National: Southern Qualification Season 25-26](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-1400.html#agenda).
 
@@ -25,6 +25,13 @@ Qualified for the National Chamionship are:
 - 50922T	LSTS MAKO MANIACS	4-2-0	11 / 40 / 102
 - 28176N	Overwatch	5-1-0	10 / 35 / 186
 - 1599N	SSIS Big Pink Pegasus
+
+It was an [eventful](https://www.youtube.com/live/fuf7YvmOIrU) weekend. The teamwork is on full display, the robots are getting more sophisticated and the notebooks improve their quality, too. Team [20226H](https://www.robotevents.com/teams/V5RC/20226H) (NGS Hogrider) from the [Hanoi–Amsterdam High School for the Gifted](https://en.wikipedia.org/wiki/Hanoi%E2%80%93Amsterdam_High_School) really improved their gameplay and design in just a few weeks. Their robot design has 6 motors for 4 omniwheels and 2 traction wheels 3.25" diameter to be more agile. Per calculation of the gears this should result in 360 rpm on the wheels. It resulted in the INNOVATE award for this team!
+
+
+Almost unbeatable again: [50922T LSTS MAKO MANIACS](https://www.robotevents.com/teams/V5RC/50922T) with the **Excellence Award**, **Tournament Champion** and **Skills Champion**. Congratulations! Their robot is also driven by six 11W motors, but has only 4 omniwheels 3.25 inch. Their secret? **460 rpm** on the wheels, they are really fast! Being pushed from the side is not a question, they are out of their way too fast. Another omniwheel in the center is used for odometry.
+
+As I learned there are more ways to qualify for VEX Worlds. For example there are the [Online Challenges](https://challenges.robotevents.com/). It was highlighted at VEX Nationals last season, and team 36070M won a spot at VEX World 2025 as [Team 11](https://challenges.robotevents.com/user/144229) in 2025 Challenges > [STEM Advocacy Challenge - High School](https://challenges.robotevents.com/challenge/287/stem-advocacy-challenge/entry) > [Empowering Cao Bang through Robotics](https://challenges.robotevents.com/challenge/287/stem-advocacy-challenge/entry/14761) with a [PDF file](https://challenges.robotevents.com/uploads/0025238_original.pdf) (39 pages) or a [website](https://sites.google.com/view/team-11-36070m/home). And then there are other challenges like [IECF](https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair) challenge that teams from Vietnam can participate in.
 
 ## Vietnam Signature: New Year’s Mayhem - High School V5RC: Push Back 2026/02/06 - 8
 
@@ -60,7 +67,7 @@ The year 2025 saw another increase in interest for VEX V5 in Vietnam. How is 202
 | 2022 Tipping Point  |   Covid19  |   Covid19  |  Covid19  |  Covid19  |   -  |
 | 2023 Spin Up        |      [6](https://en.vietnamplus.vn/vietnam-to-send-20-teams-to-vex-robotics-world-championship-2023-post247574.vnp)     |     [13](https://baogialai.com.vn/hoc-sinh-gia-lai-tiec-nuoi-dung-buoc-o-vong-loai-giai-vo-dich-the-gioi-vex-robotics-2023-post236206.html)     |     1     |     1     |   [2](https://sites.google.com/ssis.edu.vn/vex) - [76209M](https://www.robotevents.com/teams/V5RC/76209M) & [76209R](https://www.robotevents.com/teams/V5RC/76209R) |
 | 2024 Over Under     |      3     |      5     |     1     |     3     |   0  |
-| 2025 High Stakes    |      3     |      5     |     3     |     4     |   1 - [1599V](https://www.robotevents.com/teams/V5RC/1599V) |
+| 2025 High Stakes    |      3     |      5     |     3     |   4 + 2   |   1 - [1599V](https://www.robotevents.com/teams/V5RC/1599V) |
 | 2026 Push Back      |      3     |      3     |     1     |     3     |   ?  |
 
 Will the Vietnam Banana Farmers is return to Dallas once again?
