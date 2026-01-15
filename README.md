@@ -36,6 +36,17 @@ Almost unbeatable again: [50922T LSTS MAKO MANIACS](https://www.robotevents.com/
 
 As I learned there are more ways to qualify for VEX Worlds. For example there are the [Online Challenges](https://challenges.robotevents.com/). It was highlighted at VEX Nationals last season, and team 36070M won a spot at VEX World 2025 as [Team 11](https://challenges.robotevents.com/user/144229) in 2025 Challenges > [STEM Advocacy Challenge - High School](https://challenges.robotevents.com/challenge/287/stem-advocacy-challenge/entry) > [Empowering Cao Bang through Robotics](https://challenges.robotevents.com/challenge/287/stem-advocacy-challenge/entry/14761) with a [PDF file](https://challenges.robotevents.com/uploads/0025238_original.pdf) (39 pages) or a [website](https://sites.google.com/view/team-11-36070m/home). And then there are other challenges like [IECF](https://en.wikipedia.org/wiki/International_Science_and_Engineering_Fair) challenge that teams from Vietnam can participate in.
 
+
+## V5RC HS Vietnam National Championship: Push Back - 2026/01/10 - 11
+
+This event is hosted by VREC, here is [the link on RobotEvents.com](https://www.robotevents.com/robot-competitions/vex-robotics-competition/RE-V5RC-25-3807.html) and held in Hanoi at [Alphaschool](https://alphaschool.edu.vn/en/) SmartCity [Hệ thống Giáo dục Alpha, Lô A26 KĐT Geleximco](https://maps.app.goo.gl/ZQzNAPwcfTtCpw777), Lê Trọng Tấn, Nam An Khánh, Hoài Đức. **23 Teams** from Vietnam went there. Great result for SSIS, team 1599N Pink Pegasus (with website: [pinkpegasus.org](https://pinkpegasus.org/) and [Instagram](https://www.instagram.com/reel/DTf49GCDgBA/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==)) won the Excellence Awart (with a proud [coach](https://www.facebook.com/frankhua.media/posts/pfbid0a1psYyTKeBcwx5TGnXLyZtRjymW7Rec9KALEkMFMGQ7ac19E7eKbaBCKAyBiooKRl)) and qualifies for VEX Worlds in St. Louis in April 2026. Other winners:
+
+- Exellence Award: **1599N**	SSIS Big Pink Pegasus
+- Tournament Champions: **86669A**	EDS_Bunreal (Hung Yen)
+- Tournament Champions: **62595A**	EDS _ Phomidable
+- Design Award:	**50922T**	LSTS MAKO MANIACS	
+
+
 ## Vietnam Signature: New Year’s Mayhem - High School V5RC: Push Back 2026/02/06 - 8
 
 <img src="docs/1x1.png" width="5%"><img src="docs/mayhem2025.png" width="25%"><img src="docs/1x1.png" width="5%"><img src="docs/signature_event.png" width="25%"><img src="docs/1x1.png" width="5%"><img src="docs/ssisrobotics.png" width="25%">
